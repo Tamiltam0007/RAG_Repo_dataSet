@@ -1,0 +1,252 @@
+[
+  {
+    "course": "Course 001",
+    "course_url": "https://github.com/your-org/course-001",
+    "faq_url": "https://github.com/your-org/course-001/blob/main/README.md"
+  },
+  {
+    "course": "Course 002",
+    "course_url": "https://github.com/your-org/course-002",
+    "faq_url": "https://github.com/your-org/course-002/blob/main/README.md"
+  },
+  {
+    "course": "Course 003",
+    "course_url": "https://github.com/your-org/course-003",
+    "faq_url": "https://github.com/your-org/course-003/blob/main/README.md"
+  },
+  {
+    "course": "Course 004",
+    "course_url": "https://github.com/your-org/course-004",
+    "faq_url": "https://github.com/your-org/course-004/blob/main/README.md"
+  },
+  {
+    "course": "Course 005",
+    "course_url": "https://github.com/your-org/course-005",
+    "faq_url": "https://github.com/your-org/course-005/blob/main/README.md"
+  },
+  {
+    "course": "Course 006",
+    "course_url": "https://github.com/your-org/course-006",
+    "faq_url": "https://github.com/your-org/course-006/blob/main/README.md"
+  },
+  {
+    "course": "Course 007",
+    "course_url": "https://github.com/your-org/course-007",
+    "faq_url": "https://github.com/your-org/course-007/blob/main/README.md"
+  },
+  {
+    "course": "Course 008",
+    "course_url": "https://github.com/your-org/course-008",
+    "faq_url": "https://github.com/your-org/course-008/blob/main/README.md"
+  },
+  {
+    "course": "Course 009",
+    "course_url": "https://github.com/your-org/course-009",
+    "faq_url": "https://github.com/your-org/course-009/blob/main/README.md"
+  },
+  {
+    "course": "Course 010",
+    "course_url": "https://github.com/your-org/course-010",
+    "faq_url": "https://github.com/your-org/course-010/blob/main/README.md"
+  },
+  {
+    "course": "Course 011",
+    "course_url": "https://github.com/your-org/course-011",
+    "faq_url": "https://github.com/your-org/course-011/blob/main/README.md"
+  },
+  {
+    "course": "Course 012",
+    "course_url": "https://github.com/your-org/course-012",
+    "faq_url": "https://github.com/your-org/course-012/blob/main/README.md"
+  },
+  {
+    "course": "Course 013",
+    "course_url": "https://github.com/your-org/course-013",
+    "faq_url": "https://github.com/your-org/course-013/blob/main/README.md"
+  },
+  {
+    "course": "Course 014",
+    "course_url": "https://github.com/your-org/course-014",
+    "faq_url": "https://github.com/your-org/course-014/blob/main/README.md"
+  },
+  {
+    "course": "Course 015",
+    "course_url": "https://github.com/your-org/course-015",
+    "faq_url": "https://github.com/your-org/course-015/blob/main/README.md"
+  },
+  {
+    "course": "Course 016",
+    "course_url": "https://github.com/your-org/course-016",
+    "faq_url": "https://github.com/your-org/course-016/blob/main/README.md"
+  },
+  {
+    "course": "Course 017",
+    "course_url": "https://github.com/your-org/course-017",
+    "faq_url": "https://github.com/your-org/course-017/blob/main/README.md"
+  },
+  {
+    "course": "Course 018",
+    "course_url": "https://github.com/your-org/course-018",
+    "faq_url": "https://github.com/your-org/course-018/blob/main/README.md"
+  },
+  {
+    "course": "Course 019",
+    "course_url": "https://github.com/your-org/course-019",
+    "faq_url": "https://github.com/your-org/course-019/blob/main/README.md"
+  },
+  {
+    "course": "Course 020",
+    "course_url": "https://github.com/your-org/course-020",
+    "faq_url": "https://github.com/your-org/course-020/blob/main/README.md"
+  },
+  {
+    "course": "Course 021",
+    "course_url": "https://github.com/your-org/course-021",
+    "faq_url": "https://github.com/your-org/course-021/blob/main/README.md"
+  },
+  {
+    "course": "Course 022",
+    "course_url": "https://github.com/your-org/course-022",
+    "faq_url": "https://github.com/your-org/course-022/blob/main/README.md"
+  },
+  {
+    "course": "Course 023",
+    "course_url": "https://github.com/your-org/course-023",
+    "faq_url": "https://github.com/your-org/course-023/blob/main/README.md"
+  },
+  {
+    "course": "Course 024",
+    "course_url": "https://github.com/your-org/course-024",
+    "faq_url": "https://github.com/your-org/course-024/blob/main/README.md"
+  },
+  {
+    "course": "Course 025",
+    "course_url": "https://github.com/your-org/course-025",
+    "faq_url": "https://github.com/your-org/course-025/blob/main/README.md"
+  },
+  {
+    "course": "Course 026",
+    "course_url": "https://github.com/your-org/course-026",
+    "faq_url": "https://github.com/your-org/course-026/blob/main/README.md"
+  },
+  {
+    "course": "Course 027",
+    "course_url": "https://github.com/your-org/course-027",
+    "faq_url": "https://github.com/your-org/course-027/blob/main/README.md"
+  },
+  {
+    "course": "Course 028",
+    "course_url": "https://github.com/your-org/course-028",
+    "faq_url": "https://github.com/your-org/course-028/blob/main/README.md"
+  },
+  {
+    "course": "Course 029",
+    "course_url": "https://github.com/your-org/course-029",
+    "faq_url": "https://github.com/your-org/course-029/blob/main/README.md"
+  },
+  {
+    "course": "Course 030",
+    "course_url": "https://github.com/your-org/course-030",
+    "faq_url": "https://github.com/your-org/course-030/blob/main/README.md"
+  },
+  {
+    "course": "Course 031",
+    "course_url": "https://github.com/your-org/course-031",
+    "faq_url": "https://github.com/your-org/course-031/blob/main/README.md"
+  },
+  {
+    "course": "Course 032",
+    "course_url": "https://github.com/your-org/course-032",
+    "faq_url": "https://github.com/your-org/course-032/blob/main/README.md"
+  },
+  {
+    "course": "Course 033",
+    "course_url": "https://github.com/your-org/course-033",
+    "faq_url": "https://github.com/your-org/course-033/blob/main/README.md"
+  },
+  {
+    "course": "Course 034",
+    "course_url": "https://github.com/your-org/course-034",
+    "faq_url": "https://github.com/your-org/course-034/blob/main/README.md"
+  },
+  {
+    "course": "Course 035",
+    "course_url": "https://github.com/your-org/course-035",
+    "faq_url": "https://github.com/your-org/course-035/blob/main/README.md"
+  },
+  {
+    "course": "Course 036",
+    "course_url": "https://github.com/your-org/course-036",
+    "faq_url": "https://github.com/your-org/course-036/blob/main/README.md"
+  },
+  {
+    "course": "Course 037",
+    "course_url": "https://github.com/your-org/course-037",
+    "faq_url": "https://github.com/your-org/course-037/blob/main/README.md"
+  },
+  {
+    "course": "Course 038",
+    "course_url": "https://github.com/your-org/course-038",
+    "faq_url": "https://github.com/your-org/course-038/blob/main/README.md"
+  },
+  {
+    "course": "Course 039",
+    "course_url": "https://github.com/your-org/course-039",
+    "faq_url": "https://github.com/your-org/course-039/blob/main/README.md"
+  },
+  {
+    "course": "Course 040",
+    "course_url": "https://github.com/your-org/course-040",
+    "faq_url": "https://github.com/your-org/course-040/blob/main/README.md"
+  },
+  {
+    "course": "Course 041",
+    "course_url": "https://github.com/your-org/course-041",
+    "faq_url": "https://github.com/your-org/course-041/blob/main/README.md"
+  },
+  {
+    "course": "Course 042",
+    "course_url": "https://github.com/your-org/course-042",
+    "faq_url": "https://github.com/your-org/course-042/blob/main/README.md"
+  },
+  {
+    "course": "Course 043",
+    "course_url": "https://github.com/your-org/course-043",
+    "faq_url": "https://github.com/your-org/course-043/blob/main/README.md"
+  },
+  {
+    "course": "Course 044",
+    "course_url": "https://github.com/your-org/course-044",
+    "faq_url": "https://github.com/your-org/course-044/blob/main/README.md"
+  },
+  {
+    "course": "Course 045",
+    "course_url": "https://github.com/your-org/course-045",
+    "faq_url": "https://github.com/your-org/course-045/blob/main/README.md"
+  },
+  {
+    "course": "Course 046",
+    "course_url": "https://github.com/your-org/course-046",
+    "faq_url": "https://github.com/your-org/course-046/blob/main/README.md"
+  },
+  {
+    "course": "Course 047",
+    "course_url": "https://github.com/your-org/course-047",
+    "faq_url": "https://github.com/your-org/course-047/blob/main/README.md"
+  },
+  {
+    "course": "Course 048",
+    "course_url": "https://github.com/your-org/course-048",
+    "faq_url": "https://github.com/your-org/course-048/blob/main/README.md"
+  },
+  {
+    "course": "Course 049",
+    "course_url": "https://github.com/your-org/course-049",
+    "faq_url": "https://github.com/your-org/course-049/blob/main/README.md"
+  },
+  {
+    "course": "Course 050",
+    "course_url": "https://github.com/your-org/course-050",
+    "faq_url": "https://github.com/your-org/course-050/blob/main/README.md"
+  }
+]
